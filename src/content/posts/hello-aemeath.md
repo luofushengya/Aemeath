@@ -1,19 +1,12 @@
 ---
 title: "在喧嚣的世界里，建一座属于自己的小岛"
 published: 2026-11-12
-description: "信息碎片化的时代，我们总是在匆匆赶路。今天，我终于停下脚步，给自己建了一个安放文字和心情的小角落。"
-cover: "https://images.xxapi.cn/images/ys/image_102_2f6635fd.jpg"
 category: 生活随笔
-tags:
-  - 碎碎念
-  - 慢生活
-  - 心情
+tags: ["碎碎念", "慢生活", "心情"]
+# 封面图字段，Aemeath 默认读取 cover，如果不行，下面还有 image 备用
+cover: "https://images.xxapi.cn/images/ys/image_102_2f6635fd.jpg"
+image: "https://images.xxapi.cn/images/ys/image_102_2f6635fd.jpg"
 ---
-
-<div align="center">
-  <img src="https://images.xxapi.cn/images/ys/image_102_2f6635fd.jpg" alt="封面图" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
-  <p style="color: #888; font-size: 0.9em; margin-top: 8px;">「 记录，是为了让美好的瞬间有迹可循 」</p>
-</div>
 
 > [!TIP]
 > 欢迎来到我的秘密基地！这里没有复杂的代码，没有工作的烦恼，只有一杯茶、几首歌，和我的一些碎碎念。
